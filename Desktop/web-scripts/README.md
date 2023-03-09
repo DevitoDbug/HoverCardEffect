@@ -1,7 +1,13 @@
+##Languges
+    -css
+    -Javascript
+    -html
+    
+##Description
 This is a css html java script demo of how to impliment the Twitch hover effect
-![Before hover](https://drive.google.com/file/d/1q3MMnZ1dveEB_XKoyLrlvIo1P7KXzb0k/view?usp=share_link
-)
 
-![After hover](https://drive.google.com/file/d/1q3MMnZ1dveEB_XKoyLrlvIo1P7KXzb0k/view?usp=share_link
-)
+###Screenshots
+![Before hover](https://github.com/DevitoDbug/HoverCardEffect/blob/master/Desktop/web-scripts/Screenshots/image1.jpg?raw=true)
+
+![After hover](https://github.com/DevitoDbug/HoverCardEffect/blob/master/Desktop/web-scripts/Screenshots/image%202.jpg?raw=true)
 
