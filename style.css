@@ -119,6 +119,7 @@ body {
 
 #source-link {
   top: 10px;
+  left: 30px;
 }
 
 #source-link > i {
